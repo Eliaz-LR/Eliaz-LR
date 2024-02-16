@@ -1,6 +1,6 @@
 **Hi there 👋** 
 
-Currently a student, you can find here a mix of school and personnal projects.
+Currently a student, my personal projects are here and my school projects are [HERE](https://github.com/EliazLR-WorknStudies).
 
 I'm interested in a lot of subjects ranging from economics to technology in general. I also really apreciate good data visualisation.
 
