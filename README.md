@@ -7,7 +7,7 @@ I'm interested in a lot of subjects ranging from economics to technology in gene
 Check out my personnal website : [Eliaz-LR.dev](https://eliaz-lr.dev/)
 
 
-Time spent coding since Mar 5 2022 : [![wakatime](https://wakatime.com/badge/user/daf0cfff-7431-487e-b036-5476747df82f.svg)](https://wakatime.com/@daf0cfff-7431-487e-b036-5476747df82f)
+Time spent coding on my personal device since Mar 5 2022 : [![wakatime](https://wakatime.com/badge/user/daf0cfff-7431-487e-b036-5476747df82f.svg)](https://wakatime.com/@daf0cfff-7431-487e-b036-5476747df82f)
 
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Eliaz-LR/)
